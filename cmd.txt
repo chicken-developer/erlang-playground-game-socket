@@ -1,0 +1,6 @@
+    erlc *.erl //To compile all erlang code file 
+    ercl demo.erl  //To compile demo erlang file - make sure this file in current directory path
+
+erl -noshell -s modulename functionName -s init stop // run after compile code
+example: 
+erl -noshell -s demo start -s init stop
