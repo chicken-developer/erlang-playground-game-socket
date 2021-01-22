@@ -1,0 +1,3 @@
+1. Erlang file name and module name must same and must start by normal character from a - z 
+2. Erlang variable, value must start with upper case from A - Z
+3. Can choose first run function from cmd, but normal use start() - like main() in another language 

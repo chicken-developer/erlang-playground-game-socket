@@ -1,4 +1,4 @@
--module(demo).
+-module(helloworld).
 -export([hello_world/0, add/2]).
 
 -export([start/0]).
